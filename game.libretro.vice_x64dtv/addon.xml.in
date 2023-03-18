@@ -2,7 +2,7 @@
 <addon id="game.libretro.vice_x64dtv"
 		name="Commodore - C64 (VICE x64dtv)"
 		version="3.7.0.2"
-		provider-name="Libretro">
+		provider-name="VICE Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
 		<import addon="game.controller.default" version="1.0.0"/>
@@ -18,7 +18,7 @@
 		<requires_opengl>false</requires_opengl>
 	</extension>
 	<extension point="xbmc.addon.metadata">
-		<license>Unlicensed</license>
+		<license>GPLv2</license>
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.vice_x64dtv</source>
 		<assets>
