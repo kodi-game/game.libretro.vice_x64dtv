@@ -18,8 +18,8 @@ msgstr ""
 "X-Generator: Weblate 4.15.2\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - C64 (VICE x64dtv)"
-msgstr "Commodore - C64 (VICE x64dtv)"
+msgid "Commodore - C64DTV (VICE x64dtv)"
+msgstr ""
 
 msgctxt "Addon Description"
 msgid "VICE stands for the Versatile Commodore Emulator. The current version emulates the C64, the C64DTV, the C128, the VIC20, practically all PET models, the PLUS4 and the CBM-II (aka C610/C510)."
@@ -372,6 +372,10 @@ msgstr "RetroPad > Tipo de Puerto de Joystick"
 msgctxt "#30086"
 msgid "RetroPad > Face Button Options"
 msgstr "RetroPad > Opciones Botón Frontal"
+
+#~ msgctxt "Addon Summary"
+#~ msgid "Commodore - C64 (VICE x64dtv)"
+#~ msgstr "Commodore - C64 (VICE x64dtv)"
 
 #~ msgctxt "#30002"
 #~ msgid "System > RAM Expansion Unit"

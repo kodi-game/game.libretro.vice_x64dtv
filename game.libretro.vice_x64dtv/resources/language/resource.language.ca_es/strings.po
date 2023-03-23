@@ -18,7 +18,7 @@ msgstr ""
 "X-Generator: Weblate 4.14.1\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - C64 (VICE x64dtv)"
+msgid "Commodore - C64DTV (VICE x64dtv)"
 msgstr ""
 
 msgctxt "Addon Description"

@@ -17,7 +17,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgctxt "Addon Summary"
-msgid "Commodore - C64 (VICE x64dtv)"
+msgid "Commodore - C64DTV (VICE x64dtv)"
 msgstr ""
 
 msgctxt "Addon Description"
