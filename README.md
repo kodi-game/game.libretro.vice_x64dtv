@@ -1,6 +1,3 @@
-[![Build Status](https://travis-ci.org/kodi-game/game.libretro.vice_x64dtv.svg?branch=master)](https://travis-ci.org/kodi-game/game.libretro.vice_x64dtv)
-[![Build Status](https://ci.appveyor.com/api/projects/status/github/kodi-game/game.libretro.vice_x64dtv?svg=true)](https://ci.appveyor.com/project/kodi-game/game-libretro-vice-x64dtv)
-
 # Commodore - C64DTV (VICE x64dtv)
 
 ### Description
