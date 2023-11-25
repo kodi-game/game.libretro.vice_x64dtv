@@ -377,6 +377,10 @@ msgctxt "#30087"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30088"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30028"
 #~ msgid "Show Audio Options"
 #~ msgstr "Mostrar opciones de audio"

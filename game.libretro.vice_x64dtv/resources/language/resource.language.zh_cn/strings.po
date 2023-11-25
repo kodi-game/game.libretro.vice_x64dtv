@@ -377,6 +377,10 @@ msgctxt "#30087"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
+msgctxt "#30088"
+msgid "System > Printer"
+msgstr ""
+
 #~ msgctxt "#30026"
 #~ msgid "OSD > Statusbar Messages"
 #~ msgstr "OSD > 状态栏信息"
