@@ -145,10 +145,6 @@ msgctxt "#30029"
 msgid "Show Audio Options"
 msgstr ""
 
-msgctxt "#30030"
-msgid "Audio > Drive Sound Emulation"
-msgstr ""
-
 msgctxt "#30031"
 msgid "Audio > VIC-II Audio Leak Emulation"
 msgstr ""
@@ -183,10 +179,6 @@ msgstr ""
 
 msgctxt "#30039"
 msgid "Input > Analog Stick Mouse Deadzone"
-msgstr ""
-
-msgctxt "#30040"
-msgid "Input > Analog Stick Mouse Speed"
 msgstr ""
 
 msgctxt "#30041"
@@ -377,8 +369,16 @@ msgctxt "#30087"
 msgid "RetroPad > Face Button Options"
 msgstr ""
 
-msgctxt "#30088"
-msgid "System > Printer"
+msgctxt "#30089"
+msgid "Video > Automatic Crop Delay"
+msgstr ""
+
+msgctxt "#30090"
+msgid "Input > Left Analog Stick Mouse Speed"
+msgstr ""
+
+msgctxt "#30091"
+msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
 
 #~ msgctxt "#30002"
