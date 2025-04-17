@@ -45,17 +45,9 @@ msgctxt "#30005"
 msgid "Video > Crop"
 msgstr "视频 > 裁剪"
 
-msgctxt "#30006"
-msgid "Video > Zoom Mode"
-msgstr "视频 > 缩放模式"
-
 msgctxt "#30007"
 msgid "Video > Crop Mode"
 msgstr "视频 > 裁剪模式"
-
-msgctxt "#30008"
-msgid "Video > Zoom Mode Crop"
-msgstr "视频 > 缩放模式裁剪"
 
 msgctxt "#30009"
 msgid "Video > Manual Crop Top"
@@ -237,10 +229,6 @@ msgctxt "#30055"
 msgid "Hotkey > Toggle Crop"
 msgstr ""
 
-msgctxt "#30056"
-msgid "Hotkey > Toggle Zoom Mode"
-msgstr ""
-
 msgctxt "#30057"
 msgid "RetroPad > Up"
 msgstr ""
@@ -376,6 +364,14 @@ msgstr ""
 msgctxt "#30091"
 msgid "Input > Right Analog Stick Mouse Speed"
 msgstr ""
+
+#~ msgctxt "#30006"
+#~ msgid "Video > Zoom Mode"
+#~ msgstr "视频 > 缩放模式"
+
+#~ msgctxt "#30008"
+#~ msgid "Video > Zoom Mode Crop"
+#~ msgstr "视频 > 缩放模式裁剪"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
