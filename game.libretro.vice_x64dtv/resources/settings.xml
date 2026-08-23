@@ -94,7 +94,7 @@
 					<default>ReSID</default>
 					<constraints>
 						<options>
-							<option>FastSID</option>
+							<option label="30567">FastSID</option>
 							<option label="30115">ReSID</option>
 						</options>
 					</constraints>
