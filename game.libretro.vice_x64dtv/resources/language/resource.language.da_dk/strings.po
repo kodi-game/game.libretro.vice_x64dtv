@@ -2302,6 +2302,10 @@ msgctxt "#30566"
 msgid "Purple"
 msgstr ""
 
+msgctxt "#30567"
+msgid "FastSID"
+msgstr ""
+
 #~ msgctxt "#30006"
 #~ msgid "Video > Zoom Mode"
 #~ msgstr "Video > Zoomtilstand"

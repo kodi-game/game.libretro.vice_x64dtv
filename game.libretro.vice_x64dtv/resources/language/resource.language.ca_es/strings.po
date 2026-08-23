@@ -2302,6 +2302,10 @@ msgctxt "#30566"
 msgid "Purple"
 msgstr ""
 
+msgctxt "#30567"
+msgid "FastSID"
+msgstr ""
+
 #~ msgctxt "#30078"
 #~ msgid "Hotkey > Datasette REWIND"
 #~ msgstr "Tecla d'accés ràpid > REBOBINAT del conjunt de dades"
