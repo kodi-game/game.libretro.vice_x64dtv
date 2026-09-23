@@ -533,10 +533,6 @@ msgctxt "#30131"
 msgid "1:1"
 msgstr "1:1"
 
-msgctxt "#30132"
-msgid "Remove borders according to 'Crop Mode'."
-msgstr "Rimuove i bordi in base a 'Modalità ritaglio'."
-
 msgctxt "#30133"
 msgid "Small"
 msgstr "Piccolo"
@@ -2342,6 +2338,14 @@ msgstr "Viola"
 msgctxt "#30567"
 msgid "FastSID"
 msgstr ""
+
+msgctxt "#30568"
+msgid "Remove borders according to 'Crop Mode'. 'Auto-Disable' stays disabled until content reset."
+msgstr ""
+
+#~ msgctxt "#30132"
+#~ msgid "Remove borders according to 'Crop Mode'."
+#~ msgstr "Rimuove i bordi in base a 'Modalità ritaglio'."
 
 #~ msgctxt "#30006"
 #~ msgid "Video > Zoom Mode"
