@@ -2023,6 +2023,34 @@ msgctxt "#30570"
 msgid "Read 'vicerc'"
 msgstr "Модуль расширения RAM"
 
+msgctxt "#30571"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "VIC-II оттенок цвета"
+
+msgctxt "#30572"
+msgid "SID Engine"
+msgstr "Глубина цвета"
+
+msgctxt "#30573"
+msgid "ReSID Sampling"
+msgstr "Тема виртуальной KBD"
+
+msgctxt "#30574"
+msgid "ReSID Filter Passband"
+msgstr "Прозрачность виртуальной KBD"
+
+msgctxt "#30575"
+msgid "ReSID Filter Gain"
+msgstr "Режим строки состояния"
+
+msgctxt "#30576"
+msgid "ReSID Filter Bias"
+msgstr "Световое перо/цвет указателя прицела"
+
+msgctxt "#30577"
+msgid "Sample Rate"
+msgstr ""
+
 msgctxt "#30578"
 msgid "Pixel Aspect Ratio"
 msgstr "Прочитать 'vicerc'"
@@ -2063,6 +2091,10 @@ msgctxt "#30587"
 msgid "VIC-II Filter Oddline Offset"
 msgstr "Глобальный рабочий диск"
 
+msgctxt "#30588"
+msgid "VIC-II Filter Oddline Phase"
+msgstr ""
+
 msgctxt "#30589"
 msgid "VIC-II Color Gamma"
 msgstr "Пиксельное соотношение сторон"
@@ -2086,58 +2118,6 @@ msgstr "Ручная обрезка снизу"
 msgctxt "#30594"
 msgid "Color Depth"
 msgstr "Ручная обрезка слева"
-
-msgctxt "#30641"
-msgid "Virtual KBD Theme"
-msgstr "Ручная обрезка справа"
-
-msgctxt "#30642"
-msgid "Virtual KBD Transparency"
-msgstr "VIC-II фильтр"
-
-msgctxt "#30643"
-msgid "Virtual KBD Dimming"
-msgstr "VIC-II фильтр, Oddline фаза"
-
-msgctxt "#30644"
-msgid "Statusbar Mode"
-msgstr "VIC-II фильтр, Oddline офсет"
-
-msgctxt "#30645"
-msgid "Statusbar Startup"
-msgstr "VIC-II палитра цвета"
-
-msgctxt "#30646"
-msgid "Statusbar Messages"
-msgstr "VIC-II гамма цвета"
-
-msgctxt "#30647"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "VIC-II яркость цвета"
-
-msgctxt "#30571"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "VIC-II оттенок цвета"
-
-msgctxt "#30572"
-msgid "SID Engine"
-msgstr "Глубина цвета"
-
-msgctxt "#30573"
-msgid "ReSID Sampling"
-msgstr "Тема виртуальной KBD"
-
-msgctxt "#30574"
-msgid "ReSID Filter Passband"
-msgstr "Прозрачность виртуальной KBD"
-
-msgctxt "#30575"
-msgid "ReSID Filter Gain"
-msgstr "Режим строки состояния"
-
-msgctxt "#30576"
-msgid "ReSID Filter Bias"
-msgstr "Световое перо/цвет указателя прицела"
 
 msgctxt "#30595"
 msgid "Analog Stick Mouse"
@@ -2174,6 +2154,34 @@ msgstr "VIC-II эмуляция Audio Leak"
 msgctxt "#30603"
 msgid "Keyboard Keymap"
 msgstr "Движок SID"
+
+msgctxt "#30604"
+msgid "Turbo Fire"
+msgstr "Турбо-огонь"
+
+msgctxt "#30605"
+msgid "Turbo Button"
+msgstr "Турбо-кнопка"
+
+msgctxt "#30606"
+msgid "Turbo Pulse"
+msgstr "Импульс турбо"
+
+msgctxt "#30607"
+msgid "Userport Joystick Adapter"
+msgstr "Адаптер джойстика Userport"
+
+msgctxt "#30608"
+msgid "Joystick Port"
+msgstr "Порт джойстика"
+
+msgctxt "#30609"
+msgid "Joystick Port Type"
+msgstr "Тип порта джойстика"
+
+msgctxt "#30610"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30611"
 msgid "Toggle Turbo Fire"
@@ -2295,29 +2303,33 @@ msgctxt "#30640"
 msgid "Right Analog > Right"
 msgstr "Правый аналог > Вправо"
 
-msgctxt "#30604"
-msgid "Turbo Fire"
-msgstr "Турбо-огонь"
+msgctxt "#30641"
+msgid "Virtual KBD Theme"
+msgstr "Ручная обрезка справа"
 
-msgctxt "#30605"
-msgid "Turbo Button"
-msgstr "Турбо-кнопка"
+msgctxt "#30642"
+msgid "Virtual KBD Transparency"
+msgstr "VIC-II фильтр"
 
-msgctxt "#30606"
-msgid "Turbo Pulse"
-msgstr "Импульс турбо"
+msgctxt "#30643"
+msgid "Virtual KBD Dimming"
+msgstr "VIC-II фильтр, Oddline фаза"
 
-msgctxt "#30607"
-msgid "Userport Joystick Adapter"
-msgstr "Адаптер джойстика Userport"
+msgctxt "#30644"
+msgid "Statusbar Mode"
+msgstr "VIC-II фильтр, Oddline офсет"
 
-msgctxt "#30608"
-msgid "Joystick Port"
-msgstr "Порт джойстика"
+msgctxt "#30645"
+msgid "Statusbar Startup"
+msgstr "VIC-II палитра цвета"
 
-msgctxt "#30609"
-msgid "Joystick Port Type"
-msgstr "Тип порта джойстика"
+msgctxt "#30646"
+msgid "Statusbar Messages"
+msgstr "VIC-II гамма цвета"
+
+msgctxt "#30647"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "VIC-II яркость цвета"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

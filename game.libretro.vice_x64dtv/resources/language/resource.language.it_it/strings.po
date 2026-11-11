@@ -2023,6 +2023,34 @@ msgctxt "#30570"
 msgid "Read 'vicerc'"
 msgstr "Unità di espansione RAM"
 
+msgctxt "#30571"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Emulazione dispersione audio VIC-II"
+
+msgctxt "#30572"
+msgid "SID Engine"
+msgstr "Motore SID"
+
+msgctxt "#30573"
+msgid "ReSID Sampling"
+msgstr "Campionamento ReSID"
+
+msgctxt "#30574"
+msgid "ReSID Filter Passband"
+msgstr "Profondità colore"
+
+msgctxt "#30575"
+msgid "ReSID Filter Gain"
+msgstr "Tema KBD virtuale"
+
+msgctxt "#30576"
+msgid "ReSID Filter Bias"
+msgstr "Trasparenza KBD virtuale"
+
+msgctxt "#30577"
+msgid "Sample Rate"
+msgstr "Dimmerazione KBD virtuale"
+
 msgctxt "#30578"
 msgid "Pixel Aspect Ratio"
 msgstr "Leggi 'vicerc'"
@@ -2063,6 +2091,10 @@ msgctxt "#30587"
 msgid "VIC-II Filter Oddline Offset"
 msgstr "Cartuccia"
 
+msgctxt "#30588"
+msgid "VIC-II Filter Oddline Phase"
+msgstr ""
+
 msgctxt "#30589"
 msgid "VIC-II Color Gamma"
 msgstr "Proporzioni pixel"
@@ -2087,58 +2119,6 @@ msgctxt "#30594"
 msgid "Color Depth"
 msgstr "Profondità colore"
 
-msgctxt "#30641"
-msgid "Virtual KBD Theme"
-msgstr "Tema KBD virtuale"
-
-msgctxt "#30642"
-msgid "Virtual KBD Transparency"
-msgstr "Trasparenza KBD virtuale"
-
-msgctxt "#30643"
-msgid "Virtual KBD Dimming"
-msgstr "Dimmerazione KBD virtuale"
-
-msgctxt "#30644"
-msgid "Statusbar Mode"
-msgstr "Modalità barra di stato"
-
-msgctxt "#30645"
-msgid "Statusbar Startup"
-msgstr "Messaggi della barra di stato"
-
-msgctxt "#30646"
-msgid "Statusbar Messages"
-msgstr "Messaggi della barra di stato"
-
-msgctxt "#30571"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "Emulazione dispersione audio VIC-II"
-
-msgctxt "#30572"
-msgid "SID Engine"
-msgstr "Motore SID"
-
-msgctxt "#30573"
-msgid "ReSID Sampling"
-msgstr "Campionamento ReSID"
-
-msgctxt "#30574"
-msgid "ReSID Filter Passband"
-msgstr "Profondità colore"
-
-msgctxt "#30575"
-msgid "ReSID Filter Gain"
-msgstr "Tema KBD virtuale"
-
-msgctxt "#30576"
-msgid "ReSID Filter Bias"
-msgstr "Trasparenza KBD virtuale"
-
-msgctxt "#30577"
-msgid "Sample Rate"
-msgstr "Dimmerazione KBD virtuale"
-
 msgctxt "#30595"
 msgid "Analog Stick Mouse"
 msgstr "Modalità barra di stato"
@@ -2155,6 +2135,10 @@ msgctxt "#30598"
 msgid "Right Analog Stick Mouse Speed"
 msgstr "L"
 
+msgctxt "#30599"
+msgid "D-Pad Mouse Speed"
+msgstr ""
+
 msgctxt "#30600"
 msgid "Mouse Speed"
 msgstr "Pass-through tastiera"
@@ -2166,6 +2150,42 @@ msgstr "Mappature tastiera Keyrah"
 msgctxt "#30602"
 msgid "Keyrah Keypad Mappings"
 msgstr "Mappature tastiera Keyrah"
+
+msgctxt "#30603"
+msgid "Keyboard Keymap"
+msgstr ""
+
+msgctxt "#30604"
+msgid "Turbo Fire"
+msgstr "Su"
+
+msgctxt "#30605"
+msgid "Turbo Button"
+msgstr "Giù"
+
+msgctxt "#30606"
+msgid "Turbo Pulse"
+msgstr "Sinistra"
+
+msgctxt "#30607"
+msgid "Userport Joystick Adapter"
+msgstr "Destra"
+
+msgctxt "#30608"
+msgid "Joystick Port"
+msgstr "A"
+
+msgctxt "#30609"
+msgid "Joystick Port Type"
+msgstr "B"
+
+msgctxt "#30610"
+msgid "RetroPad Face Button Options"
+msgstr ""
+
+msgctxt "#30611"
+msgid "Toggle Turbo Fire"
+msgstr ""
 
 msgctxt "#30612"
 msgid "Toggle Save Disk"
@@ -2211,6 +2231,10 @@ msgctxt "#30622"
 msgid "A"
 msgstr "B"
 
+msgctxt "#30623"
+msgid "Y"
+msgstr ""
+
 msgctxt "#30624"
 msgid "X"
 msgstr "Y"
@@ -2227,6 +2251,14 @@ msgctxt "#30627"
 msgid "L"
 msgstr "R"
 
+msgctxt "#30628"
+msgid "R"
+msgstr ""
+
+msgctxt "#30629"
+msgid "L2"
+msgstr ""
+
 msgctxt "#30630"
 msgid "R2"
 msgstr "Reset"
@@ -2238,6 +2270,14 @@ msgstr "R3"
 msgctxt "#30632"
 msgid "R3"
 msgstr "Attiva/disattiva proporzioni"
+
+msgctxt "#30633"
+msgid "Left Analog > Up"
+msgstr ""
+
+msgctxt "#30634"
+msgid "Left Analog > Down"
+msgstr ""
 
 msgctxt "#30635"
 msgid "Left Analog > Left"
@@ -2259,29 +2299,37 @@ msgctxt "#30639"
 msgid "Right Analog > Left"
 msgstr "Analogico destro > Destro"
 
-msgctxt "#30604"
-msgid "Turbo Fire"
-msgstr "Su"
+msgctxt "#30640"
+msgid "Right Analog > Right"
+msgstr ""
 
-msgctxt "#30605"
-msgid "Turbo Button"
-msgstr "Giù"
+msgctxt "#30641"
+msgid "Virtual KBD Theme"
+msgstr "Tema KBD virtuale"
 
-msgctxt "#30606"
-msgid "Turbo Pulse"
-msgstr "Sinistra"
+msgctxt "#30642"
+msgid "Virtual KBD Transparency"
+msgstr "Trasparenza KBD virtuale"
 
-msgctxt "#30607"
-msgid "Userport Joystick Adapter"
-msgstr "Destra"
+msgctxt "#30643"
+msgid "Virtual KBD Dimming"
+msgstr "Dimmerazione KBD virtuale"
 
-msgctxt "#30608"
-msgid "Joystick Port"
-msgstr "A"
+msgctxt "#30644"
+msgid "Statusbar Mode"
+msgstr "Modalità barra di stato"
 
-msgctxt "#30609"
-msgid "Joystick Port Type"
-msgstr "B"
+msgctxt "#30645"
+msgid "Statusbar Startup"
+msgstr "Messaggi della barra di stato"
+
+msgctxt "#30646"
+msgid "Statusbar Messages"
+msgstr "Messaggi della barra di stato"
+
+msgctxt "#30647"
+msgid "Light Pen/Gun Pointer Color"
+msgstr ""
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

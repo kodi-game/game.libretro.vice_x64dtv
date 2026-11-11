@@ -201,6 +201,10 @@ msgctxt "#30131"
 msgid "1:1"
 msgstr ""
 
+msgctxt "#30132"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30133"
 msgid "Small"
 msgstr ""
@@ -1986,6 +1990,34 @@ msgctxt "#30570"
 msgid "Read 'vicerc'"
 msgstr "RAM 扩展单元"
 
+msgctxt "#30571"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "VIC-II 彩色对比度"
+
+msgctxt "#30572"
+msgid "SID Engine"
+msgstr "VIC-II 彩色饱和度"
+
+msgctxt "#30573"
+msgid "ReSID Sampling"
+msgstr "VIC-II 彩色色调"
+
+msgctxt "#30574"
+msgid "ReSID Filter Passband"
+msgstr "色深"
+
+msgctxt "#30575"
+msgid "ReSID Filter Gain"
+msgstr "虚拟 KBD 主题"
+
+msgctxt "#30576"
+msgid "ReSID Filter Bias"
+msgstr "虚拟 KBD 透明度"
+
+msgctxt "#30577"
+msgid "Sample Rate"
+msgstr "虚拟 KBD 调光"
+
 msgctxt "#30578"
 msgid "Pixel Aspect Ratio"
 msgstr "读取“vicerc”"
@@ -2026,6 +2058,10 @@ msgctxt "#30587"
 msgid "VIC-II Filter Oddline Offset"
 msgstr "全局工作盘"
 
+msgctxt "#30588"
+msgid "VIC-II Filter Oddline Phase"
+msgstr ""
+
 msgctxt "#30589"
 msgid "VIC-II Color Gamma"
 msgstr "像素纵横比"
@@ -2050,62 +2086,6 @@ msgctxt "#30594"
 msgid "Color Depth"
 msgstr "手动裁剪顶部"
 
-msgctxt "#30641"
-msgid "Virtual KBD Theme"
-msgstr "手动裁剪底部"
-
-msgctxt "#30642"
-msgid "Virtual KBD Transparency"
-msgstr "手动裁剪左边"
-
-msgctxt "#30643"
-msgid "Virtual KBD Dimming"
-msgstr "手动裁剪右边"
-
-msgctxt "#30644"
-msgid "Statusbar Mode"
-msgstr "VIC-II 滤波器"
-
-msgctxt "#30645"
-msgid "Statusbar Startup"
-msgstr "VIC-II 滤波器奇数行相位"
-
-msgctxt "#30646"
-msgid "Statusbar Messages"
-msgstr "VIC-II 滤波器奇数行偏移"
-
-msgctxt "#30647"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "VIC-II 调色板"
-
-msgctxt "#30571"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "VIC-II 彩色对比度"
-
-msgctxt "#30572"
-msgid "SID Engine"
-msgstr "VIC-II 彩色饱和度"
-
-msgctxt "#30573"
-msgid "ReSID Sampling"
-msgstr "VIC-II 彩色色调"
-
-msgctxt "#30574"
-msgid "ReSID Filter Passband"
-msgstr "色深"
-
-msgctxt "#30575"
-msgid "ReSID Filter Gain"
-msgstr "虚拟 KBD 主题"
-
-msgctxt "#30576"
-msgid "ReSID Filter Bias"
-msgstr "虚拟 KBD 透明度"
-
-msgctxt "#30577"
-msgid "Sample Rate"
-msgstr "虚拟 KBD 调光"
-
 msgctxt "#30595"
 msgid "Analog Stick Mouse"
 msgstr "状态栏模式"
@@ -2122,6 +2102,10 @@ msgctxt "#30598"
 msgid "Right Analog Stick Mouse Speed"
 msgstr "L"
 
+msgctxt "#30599"
+msgid "D-Pad Mouse Speed"
+msgstr ""
+
 msgctxt "#30600"
 msgid "Mouse Speed"
 msgstr "驱动器声音模拟"
@@ -2137,6 +2121,34 @@ msgstr "VIC-II 音频泄漏仿真"
 msgctxt "#30603"
 msgid "Keyboard Keymap"
 msgstr "SID 引擎"
+
+msgctxt "#30604"
+msgid "Turbo Fire"
+msgstr "上"
+
+msgctxt "#30605"
+msgid "Turbo Button"
+msgstr "下"
+
+msgctxt "#30606"
+msgid "Turbo Pulse"
+msgstr "左"
+
+msgctxt "#30607"
+msgid "Userport Joystick Adapter"
+msgstr "右"
+
+msgctxt "#30608"
+msgid "Joystick Port"
+msgstr "A"
+
+msgctxt "#30609"
+msgid "Joystick Port Type"
+msgstr "B"
+
+msgctxt "#30610"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30611"
 msgid "Toggle Turbo Fire"
@@ -2186,6 +2198,10 @@ msgctxt "#30622"
 msgid "A"
 msgstr "磁带机热键"
 
+msgctxt "#30623"
+msgid "Y"
+msgstr ""
+
 msgctxt "#30624"
 msgid "X"
 msgstr "键盘键映射"
@@ -2222,29 +2238,65 @@ msgctxt "#30632"
 msgid "R3"
 msgstr "切换纵横比"
 
-msgctxt "#30604"
-msgid "Turbo Fire"
-msgstr "上"
+msgctxt "#30633"
+msgid "Left Analog > Up"
+msgstr ""
 
-msgctxt "#30605"
-msgid "Turbo Button"
-msgstr "下"
+msgctxt "#30634"
+msgid "Left Analog > Down"
+msgstr ""
 
-msgctxt "#30606"
-msgid "Turbo Pulse"
-msgstr "左"
+msgctxt "#30635"
+msgid "Left Analog > Left"
+msgstr ""
 
-msgctxt "#30607"
-msgid "Userport Joystick Adapter"
-msgstr "右"
+msgctxt "#30636"
+msgid "Left Analog > Right"
+msgstr ""
 
-msgctxt "#30608"
-msgid "Joystick Port"
-msgstr "A"
+msgctxt "#30637"
+msgid "Right Analog > Up"
+msgstr ""
 
-msgctxt "#30609"
-msgid "Joystick Port Type"
-msgstr "B"
+msgctxt "#30638"
+msgid "Right Analog > Down"
+msgstr ""
+
+msgctxt "#30639"
+msgid "Right Analog > Left"
+msgstr ""
+
+msgctxt "#30640"
+msgid "Right Analog > Right"
+msgstr ""
+
+msgctxt "#30641"
+msgid "Virtual KBD Theme"
+msgstr "手动裁剪底部"
+
+msgctxt "#30642"
+msgid "Virtual KBD Transparency"
+msgstr "手动裁剪左边"
+
+msgctxt "#30643"
+msgid "Virtual KBD Dimming"
+msgstr "手动裁剪右边"
+
+msgctxt "#30644"
+msgid "Statusbar Mode"
+msgstr "VIC-II 滤波器"
+
+msgctxt "#30645"
+msgid "Statusbar Startup"
+msgstr "VIC-II 滤波器奇数行相位"
+
+msgctxt "#30646"
+msgid "Statusbar Messages"
+msgstr "VIC-II 滤波器奇数行偏移"
+
+msgctxt "#30647"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "VIC-II 调色板"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

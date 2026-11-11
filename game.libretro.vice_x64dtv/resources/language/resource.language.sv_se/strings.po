@@ -201,6 +201,10 @@ msgctxt "#30131"
 msgid "1:1"
 msgstr ""
 
+msgctxt "#30132"
+msgid "Remove borders according to 'Crop Mode'."
+msgstr ""
+
 msgctxt "#30133"
 msgid "Small"
 msgstr ""
@@ -1986,6 +1990,34 @@ msgctxt "#30570"
 msgid "Read 'vicerc'"
 msgstr "Läs \"vicerc"
 
+msgctxt "#30571"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Emulering av ljudläckage från VIC-II"
+
+msgctxt "#30572"
+msgid "SID Engine"
+msgstr "SID-motor"
+
+msgctxt "#30573"
+msgid "ReSID Sampling"
+msgstr "ReSID-sampling"
+
+msgctxt "#30574"
+msgid "ReSID Filter Passband"
+msgstr "ReSID-filter passband"
+
+msgctxt "#30575"
+msgid "ReSID Filter Gain"
+msgstr "ReSID-filter förstärkning"
+
+msgctxt "#30576"
+msgid "ReSID Filter Bias"
+msgstr "ReSID Filter Bias"
+
+msgctxt "#30577"
+msgid "Sample Rate"
+msgstr "Samplingsfrekvens"
+
 msgctxt "#30578"
 msgid "Pixel Aspect Ratio"
 msgstr "Bildförhållande per bildpunkt"
@@ -2054,62 +2086,6 @@ msgctxt "#30594"
 msgid "Color Depth"
 msgstr "Färgdjup"
 
-msgctxt "#30641"
-msgid "Virtual KBD Theme"
-msgstr "Virtuellt KBD-tema"
-
-msgctxt "#30642"
-msgid "Virtual KBD Transparency"
-msgstr "Virtuell KBD-genomskinlighet"
-
-msgctxt "#30643"
-msgid "Virtual KBD Dimming"
-msgstr "Virtuell KBD-dimning"
-
-msgctxt "#30644"
-msgid "Statusbar Mode"
-msgstr "Statusfältläge"
-
-msgctxt "#30645"
-msgid "Statusbar Startup"
-msgstr "Statusfält vid uppstart"
-
-msgctxt "#30646"
-msgid "Statusbar Messages"
-msgstr "Meddelanden för statusfält"
-
-msgctxt "#30647"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Färg på ljuspennan/pistolpekaren"
-
-msgctxt "#30571"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "Emulering av ljudläckage från VIC-II"
-
-msgctxt "#30572"
-msgid "SID Engine"
-msgstr "SID-motor"
-
-msgctxt "#30573"
-msgid "ReSID Sampling"
-msgstr "ReSID-sampling"
-
-msgctxt "#30574"
-msgid "ReSID Filter Passband"
-msgstr "ReSID-filter passband"
-
-msgctxt "#30575"
-msgid "ReSID Filter Gain"
-msgstr "ReSID-filter förstärkning"
-
-msgctxt "#30576"
-msgid "ReSID Filter Bias"
-msgstr "ReSID Filter Bias"
-
-msgctxt "#30577"
-msgid "Sample Rate"
-msgstr "Samplingsfrekvens"
-
 msgctxt "#30595"
 msgid "Analog Stick Mouse"
 msgstr "Analog spak-mus"
@@ -2145,6 +2121,34 @@ msgstr "Mappningar för Keyrah-tangentbord"
 msgctxt "#30603"
 msgid "Keyboard Keymap"
 msgstr "Tangentbordsmappningar"
+
+msgctxt "#30604"
+msgid "Turbo Fire"
+msgstr "Turbo-avfyrning"
+
+msgctxt "#30605"
+msgid "Turbo Button"
+msgstr "Turbo-knapp"
+
+msgctxt "#30606"
+msgid "Turbo Pulse"
+msgstr "Turbo-puls"
+
+msgctxt "#30607"
+msgid "Userport Joystick Adapter"
+msgstr "Userport Joystick-adapter"
+
+msgctxt "#30608"
+msgid "Joystick Port"
+msgstr "Port för joystick"
+
+msgctxt "#30609"
+msgid "Joystick Port Type"
+msgstr "Typ av joystickport"
+
+msgctxt "#30610"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30611"
 msgid "Toggle Turbo Fire"
@@ -2266,29 +2270,33 @@ msgctxt "#30640"
 msgid "Right Analog > Right"
 msgstr "Höger analog > Höger"
 
-msgctxt "#30604"
-msgid "Turbo Fire"
-msgstr "Turbo-avfyrning"
+msgctxt "#30641"
+msgid "Virtual KBD Theme"
+msgstr "Virtuellt KBD-tema"
 
-msgctxt "#30605"
-msgid "Turbo Button"
-msgstr "Turbo-knapp"
+msgctxt "#30642"
+msgid "Virtual KBD Transparency"
+msgstr "Virtuell KBD-genomskinlighet"
 
-msgctxt "#30606"
-msgid "Turbo Pulse"
-msgstr "Turbo-puls"
+msgctxt "#30643"
+msgid "Virtual KBD Dimming"
+msgstr "Virtuell KBD-dimning"
 
-msgctxt "#30607"
-msgid "Userport Joystick Adapter"
-msgstr "Userport Joystick-adapter"
+msgctxt "#30644"
+msgid "Statusbar Mode"
+msgstr "Statusfältläge"
 
-msgctxt "#30608"
-msgid "Joystick Port"
-msgstr "Port för joystick"
+msgctxt "#30645"
+msgid "Statusbar Startup"
+msgstr "Statusfält vid uppstart"
 
-msgctxt "#30609"
-msgid "Joystick Port Type"
-msgstr "Typ av joystickport"
+msgctxt "#30646"
+msgid "Statusbar Messages"
+msgstr "Meddelanden för statusfält"
+
+msgctxt "#30647"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Färg på ljuspennan/pistolpekaren"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"

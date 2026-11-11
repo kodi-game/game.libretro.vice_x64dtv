@@ -2023,6 +2023,34 @@ msgctxt "#30570"
 msgid "Read 'vicerc'"
 msgstr "Načíst 'vicerc'"
 
+msgctxt "#30571"
+msgid "VIC-II Audio Leak Emulation"
+msgstr "Emulace zvukového přeslechu VIC-II"
+
+msgctxt "#30572"
+msgid "SID Engine"
+msgstr "Zvukový engine SID"
+
+msgctxt "#30573"
+msgid "ReSID Sampling"
+msgstr "Vzorkování ReSID"
+
+msgctxt "#30574"
+msgid "ReSID Filter Passband"
+msgstr "Propustné pásmo filtru ReSID"
+
+msgctxt "#30575"
+msgid "ReSID Filter Gain"
+msgstr "Zesílení filtru ReSID"
+
+msgctxt "#30576"
+msgid "ReSID Filter Bias"
+msgstr "Předpětí filtru ReSID"
+
+msgctxt "#30577"
+msgid "Sample Rate"
+msgstr "Vzorkovací frekvence"
+
 msgctxt "#30578"
 msgid "Pixel Aspect Ratio"
 msgstr "Poměr stran pixelů"
@@ -2091,62 +2119,6 @@ msgctxt "#30594"
 msgid "Color Depth"
 msgstr "Barevná hloubka"
 
-msgctxt "#30641"
-msgid "Virtual KBD Theme"
-msgstr "Motiv virtuální klávesnice"
-
-msgctxt "#30642"
-msgid "Virtual KBD Transparency"
-msgstr "Průhlednost virtuální klávesnice"
-
-msgctxt "#30643"
-msgid "Virtual KBD Dimming"
-msgstr "Ztmavení okolí virtuální klávesnice"
-
-msgctxt "#30644"
-msgid "Statusbar Mode"
-msgstr "Režim stavového řádku"
-
-msgctxt "#30645"
-msgid "Statusbar Startup"
-msgstr "Stavový řádek při spuštění"
-
-msgctxt "#30646"
-msgid "Statusbar Messages"
-msgstr "Zprávy stavového řádku"
-
-msgctxt "#30647"
-msgid "Light Pen/Gun Pointer Color"
-msgstr "Barva ukazatele světelného pera/pistole"
-
-msgctxt "#30571"
-msgid "VIC-II Audio Leak Emulation"
-msgstr "Emulace zvukového přeslechu VIC-II"
-
-msgctxt "#30572"
-msgid "SID Engine"
-msgstr "Zvukový engine SID"
-
-msgctxt "#30573"
-msgid "ReSID Sampling"
-msgstr "Vzorkování ReSID"
-
-msgctxt "#30574"
-msgid "ReSID Filter Passband"
-msgstr "Propustné pásmo filtru ReSID"
-
-msgctxt "#30575"
-msgid "ReSID Filter Gain"
-msgstr "Zesílení filtru ReSID"
-
-msgctxt "#30576"
-msgid "ReSID Filter Bias"
-msgstr "Předpětí filtru ReSID"
-
-msgctxt "#30577"
-msgid "Sample Rate"
-msgstr "Vzorkovací frekvence"
-
 msgctxt "#30595"
 msgid "Analog Stick Mouse"
 msgstr "Myš přes analogovou páčku"
@@ -2182,6 +2154,34 @@ msgstr "Mapování numerické klávesnice Keyrah"
 msgctxt "#30603"
 msgid "Keyboard Keymap"
 msgstr "Mapování klávesnice"
+
+msgctxt "#30604"
+msgid "Turbo Fire"
+msgstr "Automatická střelba"
+
+msgctxt "#30605"
+msgid "Turbo Button"
+msgstr "Tlačítko automatické střelby"
+
+msgctxt "#30606"
+msgid "Turbo Pulse"
+msgstr "Pulz automatické střelby"
+
+msgctxt "#30607"
+msgid "Userport Joystick Adapter"
+msgstr "Adaptér joysticku pro Userport"
+
+msgctxt "#30608"
+msgid "Joystick Port"
+msgstr "Port joysticku"
+
+msgctxt "#30609"
+msgid "Joystick Port Type"
+msgstr "Typ portu joysticku"
+
+msgctxt "#30610"
+msgid "RetroPad Face Button Options"
+msgstr ""
 
 msgctxt "#30611"
 msgid "Toggle Turbo Fire"
@@ -2303,29 +2303,33 @@ msgctxt "#30640"
 msgid "Right Analog > Right"
 msgstr "Pravá analogová páčka > Doprava"
 
-msgctxt "#30604"
-msgid "Turbo Fire"
-msgstr "Automatická střelba"
+msgctxt "#30641"
+msgid "Virtual KBD Theme"
+msgstr "Motiv virtuální klávesnice"
 
-msgctxt "#30605"
-msgid "Turbo Button"
-msgstr "Tlačítko automatické střelby"
+msgctxt "#30642"
+msgid "Virtual KBD Transparency"
+msgstr "Průhlednost virtuální klávesnice"
 
-msgctxt "#30606"
-msgid "Turbo Pulse"
-msgstr "Pulz automatické střelby"
+msgctxt "#30643"
+msgid "Virtual KBD Dimming"
+msgstr "Ztmavení okolí virtuální klávesnice"
 
-msgctxt "#30607"
-msgid "Userport Joystick Adapter"
-msgstr "Adaptér joysticku pro Userport"
+msgctxt "#30644"
+msgid "Statusbar Mode"
+msgstr "Režim stavového řádku"
 
-msgctxt "#30608"
-msgid "Joystick Port"
-msgstr "Port joysticku"
+msgctxt "#30645"
+msgid "Statusbar Startup"
+msgstr "Stavový řádek při spuštění"
 
-msgctxt "#30609"
-msgid "Joystick Port Type"
-msgstr "Typ portu joysticku"
+msgctxt "#30646"
+msgid "Statusbar Messages"
+msgstr "Zprávy stavového řádku"
+
+msgctxt "#30647"
+msgid "Light Pen/Gun Pointer Color"
+msgstr "Barva ukazatele světelného pera/pistole"
 
 #~ msgctxt "#30001"
 #~ msgid "System > Model"
