@@ -40,7 +40,7 @@
 		</category>
 		<category id="system" label="30092" help="30093">
 			<group id="1">
-				<setting id="vice_c64dtv_model" type="string" label="30001" help="30094">
+				<setting id="vice_c64dtv_model" type="string" label="30569" help="30094">
 					<level>0</level>
 					<default>DTV3 PAL</default>
 					<constraints>
@@ -54,7 +54,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_read_vicerc" type="string" label="30002" help="30100">
+				<setting id="vice_read_vicerc" type="string" label="30570" help="30100">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -69,7 +69,7 @@
 		</category>
 		<category id="audio" label="30101" help="30102">
 			<group id="1">
-				<setting id="vice_audio_leak_emulation" type="string" label="30031" help="30103">
+				<setting id="vice_audio_leak_emulation" type="string" label="30571" help="30103">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -89,7 +89,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_sid_engine" type="string" label="30032" help="30114">
+				<setting id="vice_sid_engine" type="string" label="30572" help="30114">
 					<level>0</level>
 					<default>ReSID</default>
 					<constraints>
@@ -100,7 +100,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_resid_sampling" type="string" label="30033" help="30116">
+				<setting id="vice_resid_sampling" type="string" label="30573" help="30116">
 					<level>0</level>
 					<default>resampling</default>
 					<constraints>
@@ -113,7 +113,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_resid_passband" type="string" label="30034" help="30121">
+				<setting id="vice_resid_passband" type="string" label="30574" help="30121">
 					<level>0</level>
 					<default>90</default>
 					<constraints>
@@ -132,7 +132,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_resid_gain" type="string" label="30035" help="30122">
+				<setting id="vice_resid_gain" type="string" label="30575" help="30122">
 					<level>0</level>
 					<default>97</default>
 					<constraints>
@@ -152,7 +152,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_resid_filterbias" type="string" label="30036" help="30123">
+				<setting id="vice_resid_filterbias" type="string" label="30576" help="30123">
 					<level>0</level>
 					<default>500</default>
 					<constraints>
@@ -182,7 +182,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_sound_sample_rate" type="string" label="30037" help="30124">
+				<setting id="vice_sound_sample_rate" type="string" label="30577" help="30124">
 					<level>0</level>
 					<default>48000</default>
 					<constraints>
@@ -199,7 +199,7 @@
 		</category>
 		<category id="video" label="30125" help="30126">
 			<group id="1">
-				<setting id="vice_aspect_ratio" type="string" label="30004" help="30127">
+				<setting id="vice_aspect_ratio" type="string" label="30578" help="30127">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -212,7 +212,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_crop" type="string" label="30005" help="30568">
+				<setting id="vice_crop" type="string" label="30579" help="30568">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -228,7 +228,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_crop_delay" type="string" label="30089" help="30138">
+				<setting id="vice_crop_delay" type="string" label="30580" help="30138">
 					<level>0</level>
 					<default>enabled</default>
 					<constraints>
@@ -239,7 +239,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_crop_mode" type="string" label="30007" help="30139">
+				<setting id="vice_crop_mode" type="string" label="30581" help="30139">
 					<level>0</level>
 					<default>both</default>
 					<constraints>
@@ -255,7 +255,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_manual_crop_top" type="string" label="30009" help="30147">
+				<setting id="vice_manual_crop_top" type="string" label="30582" help="30147">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -325,7 +325,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_manual_crop_bottom" type="string" label="30010" help="30148">
+				<setting id="vice_manual_crop_bottom" type="string" label="30583" help="30148">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -395,7 +395,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_manual_crop_left" type="string" label="30011" help="30149">
+				<setting id="vice_manual_crop_left" type="string" label="30584" help="30149">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -465,7 +465,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_manual_crop_right" type="string" label="30012" help="30150">
+				<setting id="vice_manual_crop_right" type="string" label="30585" help="30150">
 					<level>0</level>
 					<default>0</default>
 					<constraints>
@@ -535,7 +535,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_filter" type="string" label="30013" help="30151">
+				<setting id="vice_vicii_filter" type="string" label="30586" help="30151">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -549,7 +549,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_filter_oddline_offset" type="string" label="30014" help="30155">
+				<setting id="vice_vicii_filter_oddline_offset" type="string" label="30587" help="30155">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -658,7 +658,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_filter_oddline_phase" type="string" label="30015" help="30253">
+				<setting id="vice_vicii_filter_oddline_phase" type="string" label="30588" help="30253">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -767,7 +767,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_color_gamma" type="string" label="30016" help="30254">
+				<setting id="vice_vicii_color_gamma" type="string" label="30589" help="30254">
 					<level>0</level>
 					<default>2800</default>
 					<constraints>
@@ -807,7 +807,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_color_brightness" type="string" label="30017" help="30286">
+				<setting id="vice_vicii_color_brightness" type="string" label="30590" help="30286">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -916,7 +916,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_color_contrast" type="string" label="30018" help="30287">
+				<setting id="vice_vicii_color_contrast" type="string" label="30591" help="30287">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -1025,7 +1025,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_color_saturation" type="string" label="30019" help="30288">
+				<setting id="vice_vicii_color_saturation" type="string" label="30592" help="30288">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -1134,7 +1134,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vicii_color_tint" type="string" label="30020" help="30289">
+				<setting id="vice_vicii_color_tint" type="string" label="30593" help="30289">
 					<level>0</level>
 					<default>1000</default>
 					<constraints>
@@ -1243,7 +1243,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_gfx_colors" type="string" label="30021" help="30290">
+				<setting id="vice_gfx_colors" type="string" label="30594" help="30290">
 					<level>0</level>
 					<default>24bit</default>
 					<constraints>
@@ -1258,7 +1258,7 @@
 		</category>
 		<category id="input" label="30293" help="30294">
 			<group id="1">
-				<setting id="vice_analogmouse" type="string" label="30038" help="30295">
+				<setting id="vice_analogmouse" type="string" label="30595" help="30295">
 					<level>0</level>
 					<default>left</default>
 					<constraints>
@@ -1271,7 +1271,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_analogmouse_deadzone" type="string" label="30039" help="30299">
+				<setting id="vice_analogmouse_deadzone" type="string" label="30596" help="30299">
 					<level>0</level>
 					<default>20</default>
 					<constraints>
@@ -1291,7 +1291,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_analogmouse_speed" type="string" label="30090" help="30300">
+				<setting id="vice_analogmouse_speed" type="string" label="30597" help="30300">
 					<level>0</level>
 					<default>1.0</default>
 					<constraints>
@@ -1330,7 +1330,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_analogmouse_speed_right" type="string" label="30091" help="30319">
+				<setting id="vice_analogmouse_speed_right" type="string" label="30598" help="30319">
 					<level>0</level>
 					<default>1.0</default>
 					<constraints>
@@ -1369,7 +1369,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_dpadmouse_speed" type="string" label="30041" help="30320">
+				<setting id="vice_dpadmouse_speed" type="string" label="30599" help="30320">
 					<level>0</level>
 					<default>6</default>
 					<constraints>
@@ -1397,7 +1397,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mouse_speed" type="string" label="30042" help="30330">
+				<setting id="vice_mouse_speed" type="string" label="30600" help="30330">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -1436,7 +1436,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_physical_keyboard_pass_through" type="string" label="30043" help="30331">
+				<setting id="vice_physical_keyboard_pass_through" type="string" label="30601" help="30331">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1447,7 +1447,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_keyrah_keypad_mappings" type="string" label="30044" help="30332">
+				<setting id="vice_keyrah_keypad_mappings" type="string" label="30602" help="30332">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1458,7 +1458,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_keyboard_keymap" type="string" label="30045" help="30333">
+				<setting id="vice_keyboard_keymap" type="string" label="30603" help="30333">
 					<level>0</level>
 					<default>positional</default>
 					<constraints>
@@ -1471,7 +1471,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_turbo_fire" type="string" label="30081" help="30127">
+				<setting id="vice_turbo_fire" type="string" label="30604" help="30127">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1482,7 +1482,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_turbo_fire_button" type="string" label="30082" help="30338">
+				<setting id="vice_turbo_fire_button" type="string" label="30605" help="30338">
 					<level>0</level>
 					<default>B</default>
 					<constraints>
@@ -1499,7 +1499,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_turbo_pulse" type="string" label="30083" help="30347">
+				<setting id="vice_turbo_pulse" type="string" label="30606" help="30347">
 					<level>0</level>
 					<default>6</default>
 					<constraints>
@@ -1514,7 +1514,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_userport_joytype" type="string" label="30084" help="30354">
+				<setting id="vice_userport_joytype" type="string" label="30607" help="30354">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1532,7 +1532,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_joyport" type="string" label="30085" help="30363">
+				<setting id="vice_joyport" type="string" label="30608" help="30363">
 					<level>0</level>
 					<default>2</default>
 					<constraints>
@@ -1543,7 +1543,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_joyport_type" type="string" label="30086" help="30366">
+				<setting id="vice_joyport_type" type="string" label="30609" help="30366">
 					<level>0</level>
 					<default>1</default>
 					<constraints>
@@ -1569,7 +1569,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_retropad_options" type="string" label="30087" help="30384">
+				<setting id="vice_retropad_options" type="string" label="30610" help="30384">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -1586,7 +1586,7 @@
 		</category>
 		<category id="hotkey" label="30389" help="30390">
 			<group id="1">
-				<setting id="vice_mapper_vkbd" type="string" label="30047" help="30391">
+				<setting id="vice_mapper_vkbd" type="string" label="30506" help="30391">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -1698,7 +1698,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_statusbar" type="string" label="30048" help="30495">
+				<setting id="vice_mapper_statusbar" type="string" label="30507" help="30495">
 					<level>0</level>
 					<default>RETROK_F12</default>
 					<constraints>
@@ -1810,7 +1810,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_joyport_switch" type="string" label="30049" help="30496">
+				<setting id="vice_mapper_joyport_switch" type="string" label="30508" help="30496">
 					<level>0</level>
 					<default>RETROK_RCTRL</default>
 					<constraints>
@@ -1922,7 +1922,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_turbo_fire_toggle" type="string" label="30050" help="30497">
+				<setting id="vice_mapper_turbo_fire_toggle" type="string" label="30611" help="30497">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2034,7 +2034,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_save_disk_toggle" type="string" label="30051" help="30498">
+				<setting id="vice_mapper_save_disk_toggle" type="string" label="30612" help="30498">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2146,7 +2146,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_aspect_ratio_toggle" type="string" label="30054" help="30499">
+				<setting id="vice_mapper_aspect_ratio_toggle" type="string" label="30613" help="30499">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2258,7 +2258,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_crop_toggle" type="string" label="30055" help="30500">
+				<setting id="vice_mapper_crop_toggle" type="string" label="30614" help="30500">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2370,7 +2370,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_reset" type="string" label="30052" help="30501">
+				<setting id="vice_mapper_reset" type="string" label="30615" help="30501">
 					<level>0</level>
 					<default>RETROK_END</default>
 					<constraints>
@@ -2482,7 +2482,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_warp_mode" type="string" label="30053" help="30502">
+				<setting id="vice_mapper_warp_mode" type="string" label="30616" help="30502">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2598,7 +2598,7 @@
 		</category>
 		<category id="retropad" label="30503" help="30504">
 			<group id="1">
-				<setting id="vice_mapper_up" type="string" label="30057" help="30505">
+				<setting id="vice_mapper_up" type="string" label="30617" help="30505">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2728,7 +2728,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_down" type="string" label="30058" help="30524">
+				<setting id="vice_mapper_down" type="string" label="30618" help="30524">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2858,7 +2858,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_left" type="string" label="30059" help="30525">
+				<setting id="vice_mapper_left" type="string" label="30619" help="30525">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -2988,7 +2988,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_right" type="string" label="30060" help="30526">
+				<setting id="vice_mapper_right" type="string" label="30620" help="30526">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3118,7 +3118,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_b" type="string" label="30062" help="30527">
+				<setting id="vice_mapper_b" type="string" label="30621" help="30527">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3248,7 +3248,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_a" type="string" label="30061" help="30528">
+				<setting id="vice_mapper_a" type="string" label="30622" help="30528">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3378,7 +3378,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_y" type="string" label="30064" help="30529">
+				<setting id="vice_mapper_y" type="string" label="30623" help="30529">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3508,7 +3508,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_x" type="string" label="30063" help="30530">
+				<setting id="vice_mapper_x" type="string" label="30624" help="30530">
 					<level>0</level>
 					<default>RETROK_SPACE</default>
 					<constraints>
@@ -3638,7 +3638,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_select" type="string" label="30065" help="30531">
+				<setting id="vice_mapper_select" type="string" label="30625" help="30531">
 					<level>0</level>
 					<default>TOGGLE_VKBD</default>
 					<constraints>
@@ -3768,7 +3768,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_start" type="string" label="30066" help="30532">
+				<setting id="vice_mapper_start" type="string" label="30626" help="30532">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -3898,7 +3898,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_l" type="string" label="30067">
+				<setting id="vice_mapper_l" type="string" label="30627">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4028,7 +4028,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_r" type="string" label="30068">
+				<setting id="vice_mapper_r" type="string" label="30628">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4158,7 +4158,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_l2" type="string" label="30069">
+				<setting id="vice_mapper_l2" type="string" label="30629">
 					<level>0</level>
 					<default>RETROK_ESCAPE</default>
 					<constraints>
@@ -4288,7 +4288,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_r2" type="string" label="30070">
+				<setting id="vice_mapper_r2" type="string" label="30630">
 					<level>0</level>
 					<default>RETROK_RETURN</default>
 					<constraints>
@@ -4418,7 +4418,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_l3" type="string" label="30071">
+				<setting id="vice_mapper_l3" type="string" label="30631">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4548,7 +4548,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_r3" type="string" label="30072">
+				<setting id="vice_mapper_r3" type="string" label="30632">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4678,7 +4678,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_lu" type="string" label="30073">
+				<setting id="vice_mapper_lu" type="string" label="30633">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4808,7 +4808,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_ld" type="string" label="30074">
+				<setting id="vice_mapper_ld" type="string" label="30634">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -4938,7 +4938,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_ll" type="string" label="30075">
+				<setting id="vice_mapper_ll" type="string" label="30635">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5068,7 +5068,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_lr" type="string" label="30076">
+				<setting id="vice_mapper_lr" type="string" label="30636">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5198,7 +5198,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_ru" type="string" label="30077">
+				<setting id="vice_mapper_ru" type="string" label="30637">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5328,7 +5328,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_rd" type="string" label="30078">
+				<setting id="vice_mapper_rd" type="string" label="30638">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5458,7 +5458,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_rl" type="string" label="30079">
+				<setting id="vice_mapper_rl" type="string" label="30639">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5588,7 +5588,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_mapper_rr" type="string" label="30080">
+				<setting id="vice_mapper_rr" type="string" label="30640">
 					<level>0</level>
 					<default>---</default>
 					<constraints>
@@ -5722,7 +5722,7 @@
 		</category>
 		<category id="osd" label="30533" help="30534">
 			<group id="1">
-				<setting id="vice_vkbd_theme" type="string" label="30022" help="30535">
+				<setting id="vice_vkbd_theme" type="string" label="30641" help="30535">
 					<level>0</level>
 					<default>auto</default>
 					<constraints>
@@ -5741,7 +5741,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vkbd_transparency" type="string" label="30023" help="30546">
+				<setting id="vice_vkbd_transparency" type="string" label="30642" help="30546">
 					<level>0</level>
 					<default>25%</default>
 					<constraints>
@@ -5755,7 +5755,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_vkbd_dimming" type="string" label="30024" help="30547">
+				<setting id="vice_vkbd_dimming" type="string" label="30643" help="30547">
 					<level>0</level>
 					<default>25%</default>
 					<constraints>
@@ -5769,7 +5769,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_statusbar" type="string" label="30025" help="30548">
+				<setting id="vice_statusbar" type="string" label="30644" help="30548">
 					<level>0</level>
 					<default>bottom</default>
 					<constraints>
@@ -5786,7 +5786,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_statusbar_startup" type="string" label="30026" help="30557">
+				<setting id="vice_statusbar_startup" type="string" label="30645" help="30557">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -5797,7 +5797,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_statusbar_messages" type="string" label="30027" help="30558">
+				<setting id="vice_statusbar_messages" type="string" label="30646" help="30558">
 					<level>0</level>
 					<default>disabled</default>
 					<constraints>
@@ -5808,7 +5808,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="vice_joyport_pointer_color" type="string" label="30028" help="30559">
+				<setting id="vice_joyport_pointer_color" type="string" label="30647" help="30559">
 					<level>0</level>
 					<default>blue</default>
 					<constraints>
