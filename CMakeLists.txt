@@ -1,4 +1,4 @@
-cmake_minimum_required(VERSION 3.5)
+cmake_minimum_required(VERSION 3.5...4.0)
 project(game.libretro.vice_x64dtv)
 
 list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR})
